@@ -11,10 +11,10 @@ This isn't your typical scrolling template. It's a lightweight, interactive expe
 
 ### 🔧 Features
 
-- 💻 **Command-line interface UI** – Navigate the site using typed commands
-- 🧠 **Minimalist design** – Focused on content and interaction, not bloat
-- 📂 **Project showcase** – Easily view highlights of my work
-- 🕹️ **Easter eggs & custom commands** – Explore and discover
+- 💻 **Command-line interface UI** - Navigate the site using typed commands
+- 🧠 **Minimalist design** - Focused on content and interaction, not bloat
+- 📂 **Project showcase** - Easily view highlights of my work
+- 🕹️ **Easter eggs & custom commands** - Explore and discover
 
 ---
 
