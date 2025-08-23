@@ -6,7 +6,8 @@
 
 ## ✨ About the Portfolio
 
-
+A **CLI-inspired, web-based portfolio** — blending retro terminal aesthetics with modern frontend practices.  
+This isn't your typical scrolling template. It's a lightweight, interactive experience meant to feel like navigating a command-line interface.
 
 ### 🔧 Features
 
